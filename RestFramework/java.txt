@@ -1,0 +1,1 @@
+Any number divided % by 2, if gives 0 -- even, if 1 -- odd
